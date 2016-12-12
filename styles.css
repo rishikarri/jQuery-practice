@@ -57,3 +57,16 @@ h1 span{
 .error{
 	color: red;
 }
+
+.full-name-error{
+	display: none;
+	color: red;
+}
+
+.password-error{
+	display: none;
+}
+
+.caution{
+	color: #f0ad4e;
+}
